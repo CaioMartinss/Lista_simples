@@ -114,7 +114,7 @@ Feito com ❤️ por Caio Martins 👋🏽 Entre em contato!
 
  ## 📝 Licença
 
-Este projeto esta sobe a licença [MIT](./LICENSE).
+Este projeto esta sobe a licença [MIT](./LICENCE).
 
  [Entre em contato!](https://www.linkedin.com/in/caio-martinss/)
 
