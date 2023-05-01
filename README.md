@@ -6,20 +6,25 @@
 [![GitHub followers](https://img.shields.io/github/followers/CaioMartinss.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/CaioMartinss?tab=followers)
 
 
-<h1 align="center">  Lista de atividades</h1>
+<h1 align="center"> ✔️ Lista de atividades</h1>
 
 
 
 ## 💻 Sobre o projeto
 
-💬 A calculadora criada com ReactJS é um projeto pessoal que teve como objetivo aprimorar meus conhecimentos na biblioteca JavaScript e desenvolvimento de interfaces de usuário dinâmicas. O projeto permite realizar todas as operações básicas de uma calculadora, tais como adição, subtração, multiplicação e divisão. O desenvolvimento da calculadora foi uma ótima oportunidade para aplicar conceitos importantes do React, como componentes, estados e propriedades. O projeto também permitiu a utilização de boas práticas de codificação e ferramentas de desenvolvimento para garantir a qualidade do código produzido.
+💬 O projeto da lista de atividade gerenciável em Flutter é um trabalho pessoal/trabalho da disciplina de programação mobile da Universidade do Estado do Pará(UEPA) que buscou aprimorar minhas habilidades na criação de interfaces de usuário dinâmicas e funcionais para aplicativos mobile. A lista de atividade gerenciável desenvolvida com Flutter permite ao usuário organizar e gerenciar suas tarefas de forma eficiente e intuitiva.
+Durante o desenvolvimento do projeto, foram aplicados diversos conceitos importantes do Flutter, como widgets, gerenciamento de estado e navegação entre telas. Além disso, o projeto também utilizou boas práticas de codificação e ferramentas de desenvolvimento para garantir a qualidade do código produzido.
 
-## [Acesse o deploy do projeto](https://reactcalc1.netlify.app/) 
+## ⏯️ App rodando:
 
-https://user-images.githubusercontent.com/83457944/233455437-0a0c527e-7788-4005-8b89-cb26718a8c6b.mp4
+
+
+https://user-images.githubusercontent.com/83457944/235385123-38b88594-6c8b-43fa-9475-743ff1e1b565.mp4
+
+
 
 <h4 align="center"> 
-	📱  Calculadora 💯 Concluído 
+	📱  Lista de Atividades Gerenciável 💯 Concluído 
 </h4>
 
 
@@ -40,51 +45,57 @@ https://user-images.githubusercontent.com/83457944/233455437-0a0c527e-7788-4005-
 <div style="position:relative;width:fit-content;height:fit-content;">
  
 
-
 ### Instalação
 
-Antes de começar, você vai precisar ter instalado em sua máquina a seguinte **ferramenta**:
-[Node.js](https://nodejs.org/en/). 
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes **FERRAMENTAS**:
+	
+- [Flutter](https://docs.flutter.dev/get-started/install). 
+- [Android Studio](https://developer.android.com/studio). 
+
+### linguagem:
+ - [Dart](https://dart.dev/). 
+	
+### IDE(Ambiente de Desenvolvimento):	
 Além disto é bom ter um editor para trabalhar com o código, eu recomendo o [VSCode](https://code.visualstudio.com/).
 
 ## 🎲 Rodando o projeto
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/CaioMartinss/calculadora.git
+$ git clone git@github.com:CaioMartinss/Lista_simples.git
 
-# Acesse a pasta do projeto no terminal/cmd
-$ cd react-calculaddora
+# Acesse a pasta do projeto no terminal do Vs code ou cmd
+$ cd lista_simples
 
 # Vá para a pasta calculadora
-$ cd calculaddora
-
-# Instale as dependências
-$ npm install
+$ cd lista_simplificada
 
 # Execute a aplicação 
-$ npm run dev
+$ flutter run 
 
-# O servidor inciará - acesse: http://*endereçodaaplicação*/
-```
+# Edit
+$ é preciso criar um device no android studio e apontar do Visual Studio Code para o device que foi criado
+```	
+
 ## 🛠 Tecnologias
 
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [Google fonts](https://fonts.google.com/)
+- [Flutter](https://docs.flutter.dev/get-started/install). 
+- [Android Studio](https://developer.android.com/studio). 
+- [Dart](https://dart.dev/). 
+	
   
 ## ✔️ conhecimento utilizados:
 	
-* [semântica]()
-* [Css-flexbox]()
-* [Css-grid]()
+* [widgets]()
+	* [AlertDialog]()
+	* [ListView.separated]()
+	* [IconButton]()
+	* [Row ]()
+* [material design]()
 * [Estado]()
 * [Eventos]()
-* [Níveis de cabeçalho]()
-* [Hierarquia de diretórios]()
-* [Css-responsividade]()  
+	* [onPressed()]()
+
 	
 	
  ## Autor
