@@ -67,9 +67,9 @@ $ git clone git@github.com:CaioMartinss/Lista_simples.git
 # Acesse a pasta do projeto no terminal do Vs code ou cmd
 $ cd lista_simples
 
-# Vá para a pasta calculadora
-$ cd lista_simplificada
-
+# instale as dependencias
+$ fluter get pub
+	
 # Execute a aplicação 
 $ flutter run 
 
