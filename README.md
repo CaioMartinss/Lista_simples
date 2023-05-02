@@ -105,12 +105,17 @@ $ é preciso criar um device no android studio e apontar do Visual Studio Code p
  <br />
  <sub><b>Caio Martins do Nascimento</b></sub></a> <a href="#" title="Caio Martins do Nascimento">🚀</a>
 
+<a href="#">
+ <img style="border-radius: 50%;" src="https://s.gravatar.com/avatar/7be230d87b0c2dc0604e170fa14c6e3e?s=80" width="100px;" alt=""/>
+ <br />
+ <sub><b>Alefe Filipe Biondes Magalhaes</b></sub></a> <a href="#" title="Alefe Filipe Biondes Magalhaes">🚀</a>
 
-Feito com ❤️ por Caio Martins 👋🏽 Entre em contato!
+Feito com ❤️ por Caio Martins e Alefe Filipe👋🏽 Entre em contato!
 
 <!-- [![Twitter Badge](https://img.shields.io/badge/-@tgmarinho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://twitter.com/tgmarinho)  -->
 [![Linkedin Badge](https://img.shields.io/badge/-caio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-martinss/)](https://www.linkedin.com/in/caio-martinss/) 
 [![Gmail Badge](https://img.shields.io/badge/-martinscaio29@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:martinscaio29@gmail.com)](mailto:martinscaio29@gmail.com)
+
 
  ## 📝 Licença
 
