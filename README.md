@@ -106,27 +106,30 @@ $ é preciso criar um device no android studio e apontar do Visual Studio Code p
 	<br />
 	<sub><b>Caio Martins do Nascimento</b></sub></a> <a href="#" title="Caio Martins do Nascimento">🚀</a>
 </div>
-
+	<br />
 <div> 
 	<a href="#">
 		<img style="border-radius: 50%;" src="https://s.gravatar.com/avatar/7be230d87b0c2dc0604e170fa14c6e3e?s=80" width="100px;" alt="100px;"/>
 		<br />
-	<sub><b>Alefe Filipe Biondes Magalhaes</b></sub></a> <a href="#" title="Alefe Filipe Biondes Magalhaes">🚀</a>
+	<sub><b>Alefe Filipe Biondes Magalhães</b></sub></a> <a href="#" title="Alefe Filipe Biondes Magalhães">🚀</a>
 </div>
-
+	<h4>
 Feito com ❤️ por Caio Martins e Alefe Filipe👋🏽 Entre em contato!
-
+	</h4>	
 <!-- [![Twitter Badge](https://img.shields.io/badge/-@tgmarinho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://twitter.com/tgmarinho)  -->
-[![Linkedin Badge](https://img.shields.io/badge/-caio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-martinss/)](https://www.linkedin.com/in/caio-martinss/) 
+	
+[![Linkedin Badge](https://img.shields.io/badge/-Caio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-martinss/)](https://www.linkedin.com/in/caio-martinss/) 
 [![Gmail Badge](https://img.shields.io/badge/-martinscaio29@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:martinscaio29@gmail.com)](mailto:martinscaio29@gmail.com)
-
-
+	<br />
+[![Linkedin Badge](https://img.shields.io/badge/-Alefe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alefe-filipe-6591b8173/)](https://www.linkedin.com/in/alefe-filipe-6591b8173/) 
+[![Gmail Badge](https://img.shields.io/badge/-alefefelipebiondesmagalhaes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alefefelipebiondesmagalhaes@gmail.com)](mailto:alefefelipebiondesmagalhaes@gmail.com)
+	<br />
+	
  ## 📝 Licença
 
 Este projeto esta sobe a licença [MIT](./LICENCE).
 
- [Entre em contato!](https://www.linkedin.com/in/caio-martinss/)
-
+Entre em contato com [Caio](https://www.linkedin.com/in/caio-martinss/) ou [Alefe!](https://www.linkedin.com/in/alefe-filipe-6591b8173/)
 
   
   
