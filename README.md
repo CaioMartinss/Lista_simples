@@ -100,15 +100,19 @@ $ é preciso criar um device no android studio e apontar do Visual Studio Code p
 	
  ## Autor
 
-<a href="#">
- <img style="border-radius: 50%;" src="https://s.gravatar.com/avatar/10a146fbe0eaa590cf49d77127f22e37?s=80" width="100px;" alt=""/>
- <br />
- <sub><b>Caio Martins do Nascimento</b></sub></a> <a href="#" title="Caio Martins do Nascimento">🚀</a>
+<div> 
+	<a href="#">
+		<img style="border-radius: 50%;" src="https://s.gravatar.com/avatar/10a146fbe0eaa590cf49d77127f22e37?s=80" width="100px;" alt="100px;"/>
+	<br />
+	<sub><b>Caio Martins do Nascimento</b></sub></a> <a href="#" title="Caio Martins do Nascimento">🚀</a>
+</div>
 
-<a href="#">
- <img style="border-radius: 50%;" src="https://s.gravatar.com/avatar/7be230d87b0c2dc0604e170fa14c6e3e?s=80" width="100px;" alt=""/>
- <br />
- <sub><b>Alefe Filipe Biondes Magalhaes</b></sub></a> <a href="#" title="Alefe Filipe Biondes Magalhaes">🚀</a>
+<div> 
+	<a href="#">
+		<img style="border-radius: 50%;" src="https://s.gravatar.com/avatar/7be230d87b0c2dc0604e170fa14c6e3e?s=80" width="100px;" alt="100px;"/>
+		<br />
+	<sub><b>Alefe Filipe Biondes Magalhaes</b></sub></a> <a href="#" title="Alefe Filipe Biondes Magalhaes">🚀</a>
+</div>
 
 Feito com ❤️ por Caio Martins e Alefe Filipe👋🏽 Entre em contato!
 
