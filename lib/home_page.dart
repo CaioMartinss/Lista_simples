@@ -15,6 +15,15 @@ class _HomePageState extends State<HomePage> {
     'Atividade 3'
   ];
 
+  void validarTexto(novaAtividade) {
+    if (novaAtividade != null && novaAtividade.isNotEmpty) {
+      setState(() {
+        _atividades.add(novaAtividade);
+      });
+      _controller.clear();
+    }
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -26,9 +35,9 @@ class _HomePageState extends State<HomePage> {
       body: ListView.separated(
         itemCount: _atividades.length,
         padding: const EdgeInsets.all(8),
-        separatorBuilder: (context, index) => const Divider(  
+        separatorBuilder: (context, index) => const Divider(
           indent: Checkbox.width * 1,
-          thickness: 1, 
+          thickness: 1,
           height: 1,
           color: Color.fromARGB(255, 15, 62, 60),
           endIndent: Checkbox.width * 1,
@@ -138,21 +147,15 @@ class _HomePageState extends State<HomePage> {
                     child: const Text('Cancelar'),
                   ),
                   TextButton(
-                    onPressed: () {
-                      Navigator.pop(context, _controller.text);
-                    },
+                    onPressed: () => {Navigator.pop(context, _controller.text)},
                     child: const Text('Adicionar'),
                   ),
                 ],
               );
             },
           );
-          if (novaAtividade != null && novaAtividade.isNotEmpty) {
-            setState(() {
-              _atividades.add(novaAtividade);
-            });
-          }
-          _controller.clear();
+          // Função para validar se foi digitado algo no campo de texto
+          validarTexto(novaAtividade);
         },
         child: const Icon(Icons.add),
       ),
